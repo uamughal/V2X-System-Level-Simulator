@@ -33,10 +33,10 @@ LTE_sim_main_launcher_examples):
 – 1: basic output.
 – 2: extended output.
 ## B. Plotting options
-• LTE_config.show_network.: configures how much plots are shown. Options are:
-– 0: no plots shown.
-– 1: show some plots.
-– 2: show all plots, which includes one showing the moving User Equipments (UEs), which may slow down simulations
+- LTE_config.show_network.: configures how much plots are shown. Options are:
+  -  0: no plots shown.
+  - 1: show some plots.
+– - 2: show all plots, which includes one showing the moving User Equipments (UEs), which may slow down simulations
 significantly.
 – 3: show also the plots of the generated microscale fading traces.
 ## C. General parameters
