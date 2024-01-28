@@ -6,6 +6,7 @@ The main file of the LTE System Level Simulator (LTE SL Simulator) is LTE_sim_ma
 run the simulation through a batch file such as LTE_sim_launcher.m, which performs the following tasks:
 - Loading a configuration file of choice. See Section III for a list of configurable parameters.
 - Executing the LTE_sim_main.m main simulation file.
+
 The simulation parameters are loaded from the LTE_load_params_*.m script or alternatively from similarly-named
 files. Do note that the LTE_load_params_dependant.m script is used for automatically generating additional simulation
 parameters from the base parameters specified. A basic example of a configuration file used with the LTE SL Simulator can
