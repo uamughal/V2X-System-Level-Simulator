@@ -19,12 +19,12 @@ files.
 When called with no arguments, LTE_load_params loads the +simulation_config/hex_grid_tilted file. The
 optional string argument allows you (among others) to load the following other preconfigured setups (see
 LTE_sim_main_launcher_examples):
-• tri_sector
-• tri_sector_tilted, tri_sector_tilted_4x2 tri_sector_tilted_4x4.
-• tri_sector_plus_femtocells
-• six_sector_tilted
-• capesso_pathlossmaps
-• omnidirectional_eNodeBs
+•  tri_sector
+•  tri_sector_tilted, tri_sector_tilted_4x2 tri_sector_tilted_4x4.
+•  tri_sector_plus_femtocells
+•  six_sector_tilted
+•  capesso_pathlossmaps
+•  omnidirectional_eNodeBs
 
 ## A. Debug options
 • LTE_config.debug_level: configures how much debug text output is shown. Options are:
